@@ -1,5 +1,5 @@
 hello
-Goodbye!
+Hello!
 fix fix fix
 (fix from branch master)
 
